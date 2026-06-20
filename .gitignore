@@ -1,0 +1,57 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Environment files - KEEP OUT OF GIT (contains API keys)
+.env
+.env.local
+.env.*.local
+
+# Project data (generated PDFs, logs)
+data/resumes/*
+!data/resumes/.gitkeep
+logs/
+*.log
+
+# Streamlit local secrets (real keys - never commit)
+.streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp
+*.tmp
+*.temp
+*.bak
