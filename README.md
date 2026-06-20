@@ -2,6 +2,8 @@
 
 I built this because going through hundreds of PDF resumes manually takes forever. Drop in a bunch of resumes, type what you need like "react developer with typescript experience", and it shows you the best matches sorted by relevance. Saves hours of reading.
 
+Try it live: https://resumerank.streamlit.app
+
 ## Why this exists
 
 Hiring teams get hundreds of PDF resumes. Reading them one by one is painful. This tool indexes everything into a searchable database so you can find relevant candidates in seconds instead of spending hours going through every file.
