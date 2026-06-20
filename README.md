@@ -2,7 +2,7 @@
 
 I built this because going through hundreds of PDF resumes manually takes forever. Drop in a bunch of resumes, type what you need like "react developer with typescript experience", and it shows you the best matches sorted by relevance. Saves hours of reading.
 
-Try it live: https://resumerank.streamlit.app
+Try it live: ![resumerank-streamlit.app](https://resumerank-fm83k8yyznr6sgjpa7qrpg.streamlit.app/)
 
 ## Why this exists
 
